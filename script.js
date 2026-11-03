@@ -171,6 +171,42 @@ const BaseDeDatos = {
         imagen: "Imagenes/1019.jpeg",
         descripcion: "Un ramo rosado con detalles brillantes para demostrarle que es alguien irremplazable.",
         endescripcion: "A pink bouquet with sparkling details to show her she is irreplaceable."
+    },
+    1020: {
+        nombre: "Combo 1",
+        ennombre: "Combo 1",
+        categoria: "Combos",
+        imagen: "Imagenes/1020.jpeg",
+    },
+    1021: {
+        nombre: "Combo 2",
+        ennombre: "Combo 2",
+        categoria: "Combos",
+        imagen: "Imagenes/1021.jpeg",
+    },
+    1022: {
+        nombre: "Combo 3",
+        ennombre: "Combo 3",
+        categoria: "Combos",
+        imagen: "Imagenes/1022.jpeg",
+    },
+    1023: {
+        nombre: "Combo 4",
+        ennombre: "Combo 4",
+        categoria: "Combos",
+        imagen: "Imagenes/1023.jpeg",
+    },
+    1024: {
+        nombre: "Combo 5",
+        ennombre: "Combo 5",
+        categoria: "Combos",
+        imagen: "Imagenes/1024.jpeg",
+    },
+    1025: {
+        nombre: "Combo 6",
+        ennombre: "Combo 6",
+        categoria: "Combos",
+        imagen: "Imagenes/1025.jpeg",
     }
 }
 
@@ -415,7 +451,8 @@ const CategoriasProductos = [
     { id: "Todas", es: "Todas", en: "All" },
     { id: "Peluches", es: "Peluches", en: "Plush Toys" },
     { id: "Anillos", es: "Anillos", en: "Rings" },
-    { id: "Flores Eternas", es: "Flores Eternas", en: "Eternal Flowers" }
+    { id: "Flores Eternas", es: "Flores Eternas", en: "Eternal Flowers" },
+    { id: "Combos", es: "Combos", en: "Combos" }
 ];
 
 const RangosPrecio = [
