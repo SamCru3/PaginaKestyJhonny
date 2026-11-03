@@ -176,36 +176,42 @@ const BaseDeDatos = {
         nombre: "Combo 1",
         ennombre: "Combo 1",
         categoria: "Combos",
+        precio: "$230.000 COP",
         imagen: "Imagenes/1020.jpeg",
     },
     1021: {
         nombre: "Combo 2",
         ennombre: "Combo 2",
         categoria: "Combos",
+        precio: "$250.000 COP",
         imagen: "Imagenes/1021.jpeg",
     },
     1022: {
         nombre: "Combo 3",
         ennombre: "Combo 3",
         categoria: "Combos",
+        precio: "$200.000 COP",
         imagen: "Imagenes/1022.jpeg",
     },
     1023: {
         nombre: "Combo 4",
         ennombre: "Combo 4",
         categoria: "Combos",
+        precio: "$250.000 COP",
         imagen: "Imagenes/1023.jpeg",
     },
     1024: {
         nombre: "Combo 5",
         ennombre: "Combo 5",
         categoria: "Combos",
+        precio: "$215.000 COP",
         imagen: "Imagenes/1024.jpeg",
     },
     1025: {
         nombre: "Combo 6",
         ennombre: "Combo 6",
         categoria: "Combos",
+        precio: "$233.000 COP",
         imagen: "Imagenes/1025.jpeg",
     }
 }
